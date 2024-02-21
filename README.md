@@ -1,4 +1,4 @@
-# Benchmark Client and Multi-processes and Multitasking HTTP Server
+# Benchmark Client and Multiprocesses and Multithreading HTTP Server
 
 ## 
 Developed a simplified HTTP server and test clients, with the aim of
